@@ -9,7 +9,17 @@ Make proper masks on **electrical devices** and **cables** in order to measure c
 - However, Anchor-based instance segmentation(e.g.Yolact and Mask RCNN) seems to be bad at masking overlapping objects(e.g. cables). 
 - We are going to test more algorithms like BlendMask and SOLOv2.
 
+## Algorithm 
+
+- [Mask RCNN](https://github.com/matterport/Mask_RCNN.git)
+    - [Mask RCNN for TF2.7](https://github.com/Kamlesh364/Mask-RCNN-TF2.7.0-keras2.7.0.git)
+- [Yolact](https://github.com/dbolya/yolact.git)
+- [Yolact_edge](https://github.com/haotian-liu/yolact_edge.git)
+
 ## Hand and doll detection
+### Mask RCNN
+
+
 ### Yolact_edge
 - Size of dataset: 
     - training: 131 images 
@@ -113,7 +123,6 @@ Make proper masks on **electrical devices** and **cables** in order to measure c
 - Use other segmentation methods 
     - Anchor-free segmentation: e.g. [SOLOv2](https://github.com/WXinlong/SOLO.git) 
     - Top-down meets Bottom-up: e.g. [BlendMask](https://github.com/aim-uofa/AdelaiDet/tree/master/configs/BlendMask)
-
 
 
 
