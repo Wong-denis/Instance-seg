@@ -123,7 +123,7 @@ Make proper masks on **electrical devices** and **cables** in order to measure c
 <img src="https://i.imgur.com/8io5pN6.jpg" alt="drawing" width="500"/>
 
 ## Issues
-### Overlap object detection
+### Overlap objects
 
 #### hands
 
