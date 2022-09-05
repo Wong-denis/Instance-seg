@@ -18,6 +18,25 @@ Make proper masks on **electrical devices** and **cables** in order to measure c
 
 ## Hand and doll detection
 ### Mask RCNN
+- Size of dataset: 
+    - training: 131 images 
+    - validation: 10 images
+- Performance
+    - FPS: >30
+    - mAP: 75.09
+- Details
+    - iterations: 6000
+    - epochs: 60
+    - batch size: 2
+    - backbone: R-50-FPN
+    - RTX 3050
+
+<!-- ![](https://i.imgur.com/1szdotr.png) -->
+<img src="https://i.imgur.com/1szdotr.png" alt="drawing" width="500"/>
+<!-- <img src="https://i.imgur.com/iu4c8Sq.png" alt="drawing" width="500"/> -->
+<img src="https://i.imgur.com/xrX0Apt.png" alt="drawing" width="500"/>
+
+
 
 
 ### Yolact_edge
@@ -36,7 +55,9 @@ Make proper masks on **electrical devices** and **cables** in order to measure c
 
 <!-- ![](https://i.imgur.com/EYaoi3t.jpg) -->
 <img src="https://i.imgur.com/EYaoi3t.jpg" alt="drawing" width="500"/>
-<img src="https://i.imgur.com/UQo3Ghb.jpg" alt="drawing" width="500"/>
+<!-- <img src="https://i.imgur.com/UQo3Ghb.jpg" alt="drawing" width="500"/> -->
+![](https://i.imgur.com/MFgIZOQ.jpg)
+<img src="https://i.imgur.com/MFgIZOQ.jpg" alt="drawing" width="500"/>
 
 
 
